@@ -10,6 +10,7 @@ const App = () => {
           <img src="src/assets/icon/Buttons Group.png" className='laptop:hidden'/>
         </div>
         <div>
+          <h1>kbjko</h1>
           <div id="id1" className='laptop:flex items-center gap-[8px] tablet:hidden'>
             <p className='text-[16px] font-[500] leading-[24px] tracking-[0.5px]'>Products</p>
             <img src="src/assets/icon/chevron-down.png"/>
